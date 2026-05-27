@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtercelete",
+        "uuid": 15510587,
+        "checksum": "kbtanp"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
